@@ -21,7 +21,7 @@ This project implements a multi-node, real-time smart parking management system 
 * **Data Integrity:** Implementation of Parity bit checks for UART packets to prevent communication errors, and adding an EEPROM-based backup system to prevent data loss of parked vehicle IDs during power failures.
 
 ## 5. Result
-![Uploading image.png…]()
+![IMG＿5913](https://github.com/user-attachments/assets/e4fa24d0-a697-4ec2-9dbc-c2c3f9772d7a)
 
 * **youtube link:** 🔗https://youtube.com/shorts/0pGOZzgGX28?feature=share
 ------
