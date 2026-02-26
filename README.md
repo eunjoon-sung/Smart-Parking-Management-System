@@ -20,6 +20,8 @@ This project implements a multi-node, real-time smart parking management system 
 * **Hardware Expansion:** Integration of DC motors with PWM control to simulate physical barrier gates upon successful entry/payment.
 * **Data Integrity:** Implementation of Parity bit checks for UART packets to prevent communication errors, and adding an EEPROM-based backup system to prevent data loss of parked vehicle IDs during power failures.
 
+## 5. Result
+🔗https://youtube.com/shorts/0pGOZzgGX28?feature=share
 ------
 ATmega128 기반 분산형 스마트 주차 관제 시스템 구축
 
